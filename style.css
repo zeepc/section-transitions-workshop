@@ -1,0 +1,21 @@
+section{
+	height: 800px;
+
+}
+
+.sectA{
+	height: 800px;
+	background-color: #55efc4
+}
+
+.sectB {
+	background-color: #00b894;
+}
+
+.sectC {
+	background-color: #00cec9;
+}
+
+.sectD {
+	background-color: #81ecec;
+}
