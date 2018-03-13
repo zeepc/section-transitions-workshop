@@ -66,3 +66,18 @@ img{
 	color: #fff;
 	text-shadow: 5px 5px 1px #8080808a;
 }
+
+.hidden {
+	opacity: 0;
+}
+
+
+.show {
+	transition: 600ms ease-In;
+	
+}
+
+@keyframes ease-In {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
