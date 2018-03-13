@@ -19,3 +19,13 @@ section{
 .sectD {
 	background-color: #81ecec;
 }
+
+p {
+	font-size: 25px;
+
+}
+
+img{
+ height: 500px;
+ width:500px;
+}
